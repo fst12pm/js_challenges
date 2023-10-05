@@ -3,14 +3,14 @@ for(let i =0;i < 10;i++){
     console.log("Ahmed")
     i++
 }
-/*I practiced while loop */
+/*I practiced my while loop */
 let count = 0
 while(count < 10){
     count++
     console.log("Mohamed")
 }
 
-/*I practiced do while loop */
+/*I practiced my do while loop */
 let c = 0;
 
 do{
