@@ -8,3 +8,9 @@ while(count < 10){
     count++
     console.log("Mohamed")
 }
+
+let c = 0;
+do{
+    c++
+    console.log("Noor")
+} while(c<10)
