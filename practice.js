@@ -15,5 +15,5 @@ let c = 0;
 
 do{
     c++
-    console.log("Noor")
+    console.log("Ali")
 } while(c<10)
